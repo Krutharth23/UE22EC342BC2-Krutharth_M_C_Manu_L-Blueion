@@ -1,0 +1,3 @@
+[console_scripts]
+ir_processor = ir_obstacle_avoidance.ir_processor_node:main
+obstacle_avoidance = ir_obstacle_avoidance.obstacle_avoidance:main

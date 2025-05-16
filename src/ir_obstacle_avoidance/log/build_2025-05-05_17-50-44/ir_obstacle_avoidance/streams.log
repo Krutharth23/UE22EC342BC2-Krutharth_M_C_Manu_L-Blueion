@@ -1,0 +1,39 @@
+[0.844s] Invoking command in '/home/krutharthmc/Downloads/ir_obstacle_avoidance': PYTHONPATH=/home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ir_obstacle_avoidance build --build-base /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build install --record /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/install.log --single-version-externally-managed install_data
+[0.962s] /home/krutharthmc/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.962s]   warnings.warn(msg)
+[1.037s] running egg_info
+[1.049s] creating build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info
+[1.049s] writing build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/PKG-INFO
+[1.049s] writing dependency_links to build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/dependency_links.txt
+[1.050s] writing entry points to build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/entry_points.txt
+[1.050s] writing requirements to build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/requires.txt
+[1.050s] writing top-level names to build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/top_level.txt
+[1.128s] writing manifest file 'build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.154s] reading manifest file 'build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.155s] writing manifest file 'build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info/SOURCES.txt'
+[1.155s] running build
+[1.155s] running build_py
+[1.155s] creating /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance
+[1.155s] copying ir_obstacle_avoidance/ir_processor_node.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance
+[1.155s] copying ir_obstacle_avoidance/obstacle_avoidance.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance
+[1.155s] copying ir_obstacle_avoidance/__init__.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance
+[1.156s] running install
+[1.159s] running install_lib
+[1.171s] creating /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance
+[1.171s] copying /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance/ir_processor_node.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance
+[1.171s] copying /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance/obstacle_avoidance.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance
+[1.171s] copying /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build/lib/ir_obstacle_avoidance/__init__.py -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance
+[1.172s] byte-compiling /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance/ir_processor_node.py to ir_processor_node.cpython-310.pyc
+[1.172s] byte-compiling /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance/obstacle_avoidance.py to obstacle_avoidance.cpython-310.pyc
+[1.172s] byte-compiling /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance/__init__.py to __init__.cpython-310.pyc
+[1.173s] running install_data
+[1.173s] creating /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/share/ament_index/resource_index/packages
+[1.173s] copying resource/ir_obstacle_avoidance -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/share/ament_index/resource_index/packages
+[1.173s] copying package.xml -> /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/share/ir_obstacle_avoidance
+[1.173s] running install_egg_info
+[1.186s] Copying build/ir_obstacle_avoidance/ir_obstacle_avoidance.egg-info to /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages/ir_obstacle_avoidance-0.0.0-py3.10.egg-info
+[1.187s] running install_scripts
+[1.217s] Installing ir_processor script to /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/ir_obstacle_avoidance
+[1.218s] Installing obstacle_avoidance script to /home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/ir_obstacle_avoidance
+[1.218s] writing list of installed files to '/home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/install.log'
+[1.246s] Invoked command in '/home/krutharthmc/Downloads/ir_obstacle_avoidance' returned '0': PYTHONPATH=/home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/krutharthmc/Downloads/ir_obstacle_avoidance/install/ir_obstacle_avoidance/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ir_obstacle_avoidance build --build-base /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/build install --record /home/krutharthmc/Downloads/ir_obstacle_avoidance/build/ir_obstacle_avoidance/install.log --single-version-externally-managed install_data
